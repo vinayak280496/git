@@ -1,0 +1,4 @@
+c:\users\ca172009\documents\visual studio 2010\Projects\pgm15\pgm15\bin\Debug\pgm15.exe
+c:\users\ca172009\documents\visual studio 2010\Projects\pgm15\pgm15\bin\Debug\pgm15.pdb
+c:\users\ca172009\documents\visual studio 2010\Projects\pgm15\pgm15\obj\x86\Debug\pgm15.exe
+c:\users\ca172009\documents\visual studio 2010\Projects\pgm15\pgm15\obj\x86\Debug\pgm15.pdb

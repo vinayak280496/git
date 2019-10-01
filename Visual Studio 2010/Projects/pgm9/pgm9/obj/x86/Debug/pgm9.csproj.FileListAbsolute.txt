@@ -1,0 +1,4 @@
+c:\users\ca172009\documents\visual studio 2010\Projects\pgm9\pgm9\bin\Debug\pgm9.exe
+c:\users\ca172009\documents\visual studio 2010\Projects\pgm9\pgm9\bin\Debug\pgm9.pdb
+c:\users\ca172009\documents\visual studio 2010\Projects\pgm9\pgm9\obj\x86\Debug\pgm9.exe
+c:\users\ca172009\documents\visual studio 2010\Projects\pgm9\pgm9\obj\x86\Debug\pgm9.pdb

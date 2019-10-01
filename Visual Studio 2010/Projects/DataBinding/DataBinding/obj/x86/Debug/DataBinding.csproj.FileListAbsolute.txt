@@ -1,0 +1,8 @@
+c:\users\ca172009\documents\visual studio 2010\Projects\DataBinding\DataBinding\bin\Debug\DataBinding.exe.config
+c:\users\ca172009\documents\visual studio 2010\Projects\DataBinding\DataBinding\bin\Debug\DataBinding.exe
+c:\users\ca172009\documents\visual studio 2010\Projects\DataBinding\DataBinding\bin\Debug\DataBinding.pdb
+c:\users\ca172009\documents\visual studio 2010\Projects\DataBinding\DataBinding\obj\x86\Debug\DataBinding.Form1.resources
+c:\users\ca172009\documents\visual studio 2010\Projects\DataBinding\DataBinding\obj\x86\Debug\DataBinding.Properties.Resources.resources
+c:\users\ca172009\documents\visual studio 2010\Projects\DataBinding\DataBinding\obj\x86\Debug\DataBinding.csproj.GenerateResource.Cache
+c:\users\ca172009\documents\visual studio 2010\Projects\DataBinding\DataBinding\obj\x86\Debug\DataBinding.exe
+c:\users\ca172009\documents\visual studio 2010\Projects\DataBinding\DataBinding\obj\x86\Debug\DataBinding.pdb

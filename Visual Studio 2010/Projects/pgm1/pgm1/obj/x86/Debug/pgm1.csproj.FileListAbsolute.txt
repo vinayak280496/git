@@ -1,0 +1,5 @@
+c:\users\ca172009\documents\visual studio 2010\Projects\pgm1\pgm1\bin\Debug\pgm1.exe
+c:\users\ca172009\documents\visual studio 2010\Projects\pgm1\pgm1\bin\Debug\pgm1.pdb
+c:\users\ca172009\documents\visual studio 2010\Projects\pgm1\pgm1\obj\x86\Debug\pgm1.exe
+c:\users\ca172009\documents\visual studio 2010\Projects\pgm1\pgm1\obj\x86\Debug\pgm1.pdb
+C:\Users\Ca172009\Documents\Visual Studio 2010\Projects\pgm1\pgm1\obj\x86\Debug\pgm1.csprojResolveAssemblyReference.cache

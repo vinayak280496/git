@@ -1,0 +1,2 @@
+C:\Users\Ca172009\Documents\Visual Studio 2010\Projects\pgm6\pgm6\obj\x86\Debug\pgm6.exe
+C:\Users\Ca172009\Documents\Visual Studio 2010\Projects\pgm6\pgm6\obj\x86\Debug\pgm6.pdb

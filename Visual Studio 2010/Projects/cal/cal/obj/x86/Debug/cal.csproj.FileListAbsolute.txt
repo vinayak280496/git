@@ -1,0 +1,4 @@
+c:\users\ca172009\documents\visual studio 2010\Projects\cal\cal\bin\Debug\cal.exe
+c:\users\ca172009\documents\visual studio 2010\Projects\cal\cal\bin\Debug\cal.pdb
+c:\users\ca172009\documents\visual studio 2010\Projects\cal\cal\obj\x86\Debug\cal.exe
+c:\users\ca172009\documents\visual studio 2010\Projects\cal\cal\obj\x86\Debug\cal.pdb
