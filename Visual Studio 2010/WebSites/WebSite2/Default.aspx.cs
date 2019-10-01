@@ -14,17 +14,23 @@ public partial class _Default : System.Web.UI.Page
     }
     protected void Button1_Click(object sender, EventArgs e)
     {
-
-        int NPwd = Convert.ToInt32(TextBox1.Text);
-        int CPwd = Convert.ToInt32(TextBox2.Text);
-
-        if (NPwd.Equals(CPwd))
+        try
         {
-            lblstatus.Text = " Password match";
+            int NPwd = Convert.ToInt32(TextBox1.Text);
+            int CPwd = Convert.ToInt32(TextBox2.Text);
+
+            if (NPwd.Equals(CPwd))
+            {
+                lblstatus.Text = " Password match";
+            }
+            else
+            {
+                lblstatus.Text = "Incorrecet Password";
+            }
         }
-        else
+        catch (Exception ex)
         {
-            lblstatus.Text = "Incorrecet Password";
+            lblstatus.Text = " Insert value first";
         }
     }
 
