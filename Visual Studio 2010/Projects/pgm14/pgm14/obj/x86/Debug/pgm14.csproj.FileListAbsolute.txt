@@ -1,5 +1,0 @@
-C:\Users\Ca172009\Documents\Visual Studio 2010\Projects\pgm14\pgm14\obj\x86\Debug\pgm14.exe
-C:\Users\Ca172009\Documents\Visual Studio 2010\Projects\pgm14\pgm14\obj\x86\Debug\pgm14.pdb
-C:\Users\Ca172009\Documents\Visual Studio 2010\Projects\pgm14\pgm14\bin\Debug\pgm14.exe
-C:\Users\Ca172009\Documents\Visual Studio 2010\Projects\pgm14\pgm14\bin\Debug\pgm14.pdb
-C:\Users\Ca172009\Documents\Visual Studio 2010\Projects\pgm14\pgm14\obj\x86\Debug\pgm14.csprojResolveAssemblyReference.cache

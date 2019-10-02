@@ -1,8 +1,0 @@
-c:\users\ca172009\documents\visual studio 2010\Projects\pgm7\pgm7\obj\x86\Debug\pgm7.Form1.resources
-c:\users\ca172009\documents\visual studio 2010\Projects\pgm7\pgm7\obj\x86\Debug\pgm7.Properties.Resources.resources
-c:\users\ca172009\documents\visual studio 2010\Projects\pgm7\pgm7\obj\x86\Debug\pgm7.csproj.GenerateResource.Cache
-c:\users\ca172009\documents\visual studio 2010\Projects\pgm7\pgm7\bin\Debug\pgm7.exe
-c:\users\ca172009\documents\visual studio 2010\Projects\pgm7\pgm7\bin\Debug\pgm7.pdb
-c:\users\ca172009\documents\visual studio 2010\Projects\pgm7\pgm7\obj\x86\Debug\pgm7.exe
-c:\users\ca172009\documents\visual studio 2010\Projects\pgm7\pgm7\obj\x86\Debug\pgm7.pdb
-C:\Users\Ca172009\Documents\Visual Studio 2010\Projects\pgm7\pgm7\obj\x86\Debug\pgm7.csprojResolveAssemblyReference.cache

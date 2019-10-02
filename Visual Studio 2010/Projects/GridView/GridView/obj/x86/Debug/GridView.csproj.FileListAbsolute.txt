@@ -1,8 +1,0 @@
-c:\users\ca172009\documents\visual studio 2010\Projects\GridView\GridView\obj\x86\Debug\GridView.Form1.resources
-c:\users\ca172009\documents\visual studio 2010\Projects\GridView\GridView\obj\x86\Debug\GridView.Properties.Resources.resources
-c:\users\ca172009\documents\visual studio 2010\Projects\GridView\GridView\obj\x86\Debug\GridView.csproj.GenerateResource.Cache
-c:\users\ca172009\documents\visual studio 2010\Projects\GridView\GridView\bin\Debug\GridView.exe.config
-c:\users\ca172009\documents\visual studio 2010\Projects\GridView\GridView\bin\Debug\GridView.exe
-c:\users\ca172009\documents\visual studio 2010\Projects\GridView\GridView\bin\Debug\GridView.pdb
-c:\users\ca172009\documents\visual studio 2010\Projects\GridView\GridView\obj\x86\Debug\GridView.exe
-c:\users\ca172009\documents\visual studio 2010\Projects\GridView\GridView\obj\x86\Debug\GridView.pdb

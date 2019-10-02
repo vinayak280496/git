@@ -1,4 +1,0 @@
-c:\users\ca172009\documents\visual studio 2010\Projects\pgm\pgm\bin\Debug\pgm.exe
-c:\users\ca172009\documents\visual studio 2010\Projects\pgm\pgm\bin\Debug\pgm.pdb
-c:\users\ca172009\documents\visual studio 2010\Projects\pgm\pgm\obj\x86\Debug\pgm.exe
-c:\users\ca172009\documents\visual studio 2010\Projects\pgm\pgm\obj\x86\Debug\pgm.pdb

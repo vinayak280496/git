@@ -1,8 +1,0 @@
-c:\users\ca172009\documents\visual studio 2010\Projects\datagridview\datagridview\bin\Debug\datagridview.exe.config
-c:\users\ca172009\documents\visual studio 2010\Projects\datagridview\datagridview\bin\Debug\datagridview.exe
-c:\users\ca172009\documents\visual studio 2010\Projects\datagridview\datagridview\bin\Debug\datagridview.pdb
-c:\users\ca172009\documents\visual studio 2010\Projects\datagridview\datagridview\obj\x86\Debug\datagridview.Form1.resources
-c:\users\ca172009\documents\visual studio 2010\Projects\datagridview\datagridview\obj\x86\Debug\datagridview.Properties.Resources.resources
-c:\users\ca172009\documents\visual studio 2010\Projects\datagridview\datagridview\obj\x86\Debug\datagridview.csproj.GenerateResource.Cache
-c:\users\ca172009\documents\visual studio 2010\Projects\datagridview\datagridview\obj\x86\Debug\datagridview.exe
-c:\users\ca172009\documents\visual studio 2010\Projects\datagridview\datagridview\obj\x86\Debug\datagridview.pdb
